@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/C-00599C.svg?&style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=go&logoColor=white" alt="Go" />
+</details>
 
 <details>
   <summary><b>:gear: &nbsp;GitHub 统计数据</b></summary>
