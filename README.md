@@ -3,10 +3,10 @@
 
 ### :space_invader: &nbsp;关于我
 
-&nbsp;&nbsp; :smiley_cat: &nbsp;我是一名西安邮电大学软件工程专业的大二在读学生。
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;喜爱编程与创新。
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench:   2023 年开始学习计算机相关知识&nbsp;
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;正在学习分布式相关内容
+&nbsp;&nbsp;&nbsp;:yum: &nbsp;我是一名西安邮电大学软件工程专业的大二在读学生。 <br/>
+&nbsp;&nbsp;&nbsp;:ghost: &nbsp;喜爱编程与创新。 <br/>
+&nbsp;&nbsp;&nbsp;:nerd_face: &nbsp;2023 年开始学习计算机相关知识。 <br/>
+&nbsp;&nbsp;&nbsp;:book: &nbsp;正在学习分布式相关内容 <br/>
 
 <p align="center">
   <a href="su1799718517@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
