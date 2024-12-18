@@ -3,7 +3,7 @@
 
 ### :space_invader: &nbsp;关于我
 
-&nbsp;&nbsp;&nbsp; :yum: &nbsp;我是西安邮电大学软件工程专业的一名大二在读学生。 <br/>
+&nbsp;&nbsp;&nbsp; :yum: &nbsp;我是西安邮电大学软件工程专业的一名大二在读学生，目前在西邮 Linux 兴趣小组内学习。 <br/>
 &nbsp;&nbsp;&nbsp; :ghost: &nbsp;喜爱编程与创新。 <br/>
 &nbsp;&nbsp;&nbsp; :nerd_face: &nbsp;2023 年开始学习计算机相关知识。 <br/>
 &nbsp;&nbsp;&nbsp; :book: &nbsp;正在学习分布式相关内容。 <br/>
